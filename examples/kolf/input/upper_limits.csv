@@ -1,0 +1,9 @@
+image,channel,upper,upper_qc
+kolf_example_1,nucleus,6728.75,5383
+kolf_example_1,protein,200,120
+kolf_example_1,microtubules,1403,1403
+kolf_example_1,er,1203,1203
+kolf_example_2,nucleus,905,724
+kolf_example_2,protein,166.6667,100
+kolf_example_2,microtubules,273,273
+kolf_example_2,er,514,514

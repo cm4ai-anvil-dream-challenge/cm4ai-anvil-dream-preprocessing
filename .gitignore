@@ -1,0 +1,17 @@
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# HPA Cell Segmentator checkout and its models (see README.md)
+HPACellSegmentatorPortable/
+*.pth
+
+# pipeline outputs (compare with examples/*/output)
+/output/
